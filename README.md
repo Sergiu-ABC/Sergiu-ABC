@@ -15,7 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sergiu-ABC&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Sergiu-ABC&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 God Bless!
